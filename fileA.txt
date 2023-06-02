@@ -1,1 +1,2 @@
 this is fileA
+this is 1st change to fileA
