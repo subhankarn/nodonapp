@@ -1,1 +1,2 @@
 This is FileB
+added new line to FileB
